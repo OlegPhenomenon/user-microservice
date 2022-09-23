@@ -1,0 +1,10 @@
+ru:
+  model:
+    errors:
+        user:
+          email:
+            blank: 'Укажите адрес электронной почты'
+          name:
+            blank: 'Укажите имя'
+          password:
+            blank: 'Укажите пароль'
